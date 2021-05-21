@@ -1,3 +1,3 @@
 <?php 
-include_once("index1.html");
+include_once("sample-herokuh.html");
 ?>
